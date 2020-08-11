@@ -23,6 +23,8 @@ Features users can avail :
 
 ### Sample Deployment : https://jay-marioland.web.app/
 
+## Technology Used
+
 - React
 - Redux
 - Firebase - Cloud Functions
