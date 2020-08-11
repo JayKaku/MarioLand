@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # MarioLand
 
-Since this is my first React App project, I followed a YouTube tutorial step by step to build it. The tutorial is a React, Redux & Firebase App playlist on The Net Ninja YouTube channel. Link to the playlist:(https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
+Since this is my first React App project, I followed a YouTube tutorial step by step to build it. The tutorial is a React, Redux & Firebase App playlist on The Net Ninja YouTube channel. Link to the playlist:https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3
 
 ## Features
 
@@ -21,7 +21,7 @@ Features users can avail :
 
 4. User can also **Create** a new Project with Title and Content.
 
-### Sample Deployment : (https://jay-marioland.web.app/)
+### Sample Deployment : https://jay-marioland.web.app/
 
 - React
 - Redux
@@ -38,7 +38,7 @@ Features users can avail :
 
 ![login](/screenshot/marioland3.jpg)
 
-![project detail](<(/screenshot/marioland5.jpg)>)
+![project detail](/screenshot/marioland5.jpg)
 
 ### Setup
 
