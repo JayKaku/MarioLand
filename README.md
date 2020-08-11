@@ -1,68 +1,57 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# MarioLand
 
-In the project directory, you can run:
+Since this is my first React App project, I followed a YouTube tutorial step by step to build it. The tutorial is a React, Redux & Firebase App playlist on The Net Ninja YouTube channel. Link to the playlist:(https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+A simple web app made fro all paltforms
+Features users can avail :
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+1. **Signup** for creation of an account.
 
-### `npm test`
+2. **Login** with the created account credentials.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. View the **Dashboard** which consists of **Notifications and Project**.
 
-### `npm run build`
+- Notifications consists of users created messages and new project added messages.
+- Project consists of **Title**, **Username** of the user who posted and **Time** of post.
+- On clicking the Project, **Project details** are displayed.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. User can also **Create** a new Project with Title and Content.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Sample Deployment : (https://jay-marioland.web.app/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React
+- Redux
+- Firebase - Cloud Functions
+- Styling - [Materialize](https://materializecss.com/)
 
-### `npm run eject`
+### Screenshots
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![dashbord](/screenshot/marioland2.jpg)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![create project](/screenshot/marioland1.jpg)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![sign in](/screenshot/marioland4.jpg)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![login](/screenshot/marioland3.jpg)
 
-## Learn More
+![project detail](<(/screenshot/marioland5.jpg)>)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Setup
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clone this repository or download zip.
+2. Navigate to project folder in terminal and type
+   `npm install`
+3. Create your Firebase project at [console](https://console.firebase.google.com/u/0/)
+4. Replace firebase credentials in `/src/config/fbConfig.js` with your credentials from Firebase console
+5. Enable email-signin under Firebase --> Develop --> Authentication.
+6. Navigate to project folder in terminal and type
+   `npm start`
+7. The setput is ready to use.
 
-### Code Splitting
+## Developer
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### Jay Kaku - [LinkedIn](https://www.linkedin.com/in/jay-kaku-a33382191/)
