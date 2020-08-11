@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # MarioLand
 
-Since this is my first React App project, I followed a YouTube tutorial step by step to build it. The tutorial is a React, Redux & Firebase App playlist on The Net Ninja YouTube channel. Link to the playlist:https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3
+Since this is my first React App project, I followed a YouTube tutorial step by step to build it. The tutorial is a React, Redux & Firebase App playlist on The Net Ninja YouTube channel. Link to the playlist: https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3
 
 ## Features
 
