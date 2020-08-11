@@ -50,7 +50,7 @@ Features users can avail :
 5. Enable email-signin under Firebase --> Develop --> Authentication.
 6. Navigate to project folder in terminal and type
    `npm start`
-7. The setput is ready to use.
+7. The setup is ready to use.
 
 ## Developer
 
